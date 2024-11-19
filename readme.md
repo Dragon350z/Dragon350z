@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **React and deepen my knowledge in C# and Java**
 
-- 💬 Ask me about **Angular**
 
 - ⚡ Fun fact **I like gaming mostly Strategie and Story games but Madden NFL is also sometimes included**
 
